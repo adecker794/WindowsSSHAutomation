@@ -4,3 +4,4 @@ This is a simple script that is used to create SSH Keys on Windows and then move
 It also has the ability to move keys if you already have your own SSH keys.
 
 This will not work on older Windows systems that don't have SSH installed. You'll need Windows 10 Version 1803 and later.
+You will also need to run this script in a terminal, it will not work if you run it in ISE.
